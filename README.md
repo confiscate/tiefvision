@@ -104,6 +104,6 @@ Please refer to the [Developer Guide](doc/developer.md) for details.
 [Presentation Slides](doc/TiefVision.pdf) with detailed view of inner workings of TiefVision, from a talk given by Pau Carre.
 
 ## Copyright
-Copyright (C) 2016 Pau Carré Cardona - All Rights Reserved
+Copyright (C) 2017 Pau Carré Cardona - All Rights Reserved
 You may use, distribute and modify this code under the
 terms of the [Apache License v2](http://www.apache.org/licenses/LICENSE-2.0.txt).
