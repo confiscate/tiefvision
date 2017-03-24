@@ -100,6 +100,9 @@ The current tools are the following:
 ## Developer Guide
 Please refer to the [Developer Guide](doc/developer.md) for details.
 
+## Slides
+[Presentation Slides](doc/TiefVision.pdf) with detailed view of inner workings of TiefVision, from a talk given by Pau Carre.
+
 ## Copyright
 Copyright (C) 2016 Pau Carré Cardona - All Rights Reserved
 You may use, distribute and modify this code under the
